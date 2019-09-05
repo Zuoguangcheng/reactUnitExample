@@ -1,0 +1,19 @@
+{
+  "name": "unittestwithwiki",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "finance-unit-test --watchAll"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  },
+  "devDependencies": {
+    "finance-unit-test": "^1.0.0"
+  }
+}

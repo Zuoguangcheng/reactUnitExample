@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`测试reactBase 渲染结果测试 1`] = `
+<div
+  className="react-base"
+  onClick={[Function]}
+>
+  <div
+    className="is-modal classname"
+  >
+    我是modal
+  </div>
+</div>
+`;
